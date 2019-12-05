@@ -146,3 +146,4 @@ iOSInjectionProject/
 vendor/
 
 # Other
+GoogleService-Info.plist
